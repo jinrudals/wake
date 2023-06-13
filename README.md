@@ -63,7 +63,7 @@ On Redhat (6.6 or later):
 
     sudo yum install epel-release epel-release centos-release-scl
     # On RHEL6: sudo yum install devtoolset-6-gcc devtoolset-6-gcc-c++
-    sudo yum install makedev fuse fuse-devel sqlite-devel gmp-devel ncurses-devel pkgconfig git gcc gcc-c++ re2-devel dash
+    sudo yum install makedev fuse fuse-devel sqlite-devel gmp-devel ncurses-devel pkgconfig git gcc gcc-c++ re2-devel dash squashfuse
 
 On FreeBSD (12 or later):
 
